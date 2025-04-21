@@ -1,0 +1,3 @@
+/mnt/d/МГУ/2 курс/Второй семестр/Прак/Практические/analisator1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/МГУ/2 курс/Второй семестр/Прак/Практические/analisator1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/МГУ/2 курс/Второй семестр/Прак/Практические/analisator1/cmake-build-debug/CMakeFiles/analisator1.dir

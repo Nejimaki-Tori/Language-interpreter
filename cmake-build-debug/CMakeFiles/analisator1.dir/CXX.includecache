@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/МГУ/2 курс/Второй семестр/Прак/Практические/analisator1/main.cpp
+iostream
+-
+string
+-
+cstdio
+-
+cctype
+-
+vector
+-
+stack
+-
+algorithm
+-
+exception
+-
+

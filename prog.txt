@@ -1,0 +1,30 @@
+program
+{
+int a, b = -5, c = -1, d = 8;
+boolean t = false;
+string s = "a", s1 = "b";
+write(s, s1, b, "aaa", b == -5);
+write("Put in value for s1: ");
+read(s1);
+s1 = s + s1;
+if (t){
+    write("TRUE!");
+} else {
+    write("FALSE!");
+}
+if (s == "a") write("s == a");
+write("s = a, s1 = s + s1: ");
+write(s1); /* comment */
+a = b * (c + 2);
+write("a = ", a);
+if (b < c){
+    while(b < c){
+        b = b + 1;
+        if (b == -2) { write("Jump after break;"); break; }
+    }
+    write("b = ", b);
+}
+a = a + d;
+a = a % 5;
+write("a = ", a);
+}
